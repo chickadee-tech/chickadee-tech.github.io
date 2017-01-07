@@ -11,17 +11,16 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-hyde:
-  name: Hyde
-  image: /hydejack/public/img/hyde.jpg
+polystack:
+  name: Polystack
+  image: /public/img/hyde.jpg
   color: '#949667'
   description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
+    Polystack is Chickadee Tech's exploration into UAV flight controller hardware.
 
-jekyll:
-  name: Jekyll
-  image: /hydejack/public/img/jekyll.jpg
+adafruit:
+  name: Adafruit
+  image: /public/img/jekyll.jpg
   color: '#949667'
   description: >
-    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+    Adafruit Industries is the main client of Chickadee Tech.

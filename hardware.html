@@ -1,0 +1,13 @@
+---
+layout: page
+title: Hardware
+---
+<ul>
+    {% for product in site.hardware %}
+    <li>
+        <a href="{{ product.permalink | prepend:site.baseurl }}">
+            <span>{{ product.title }}</span>
+        </a>
+    </li>
+    {% endfor %}
+</ul>
