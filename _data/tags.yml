@@ -13,14 +13,14 @@
 
 polystack:
   name: Polystack
-  image: /public/img/hyde.jpg
+  image: /public/img/polystack.jpg
   color: '#949667'
   description: >
     Polystack is Chickadee Tech's exploration into UAV flight controller hardware.
 
 adafruit:
   name: Adafruit
-  image: /public/img/jekyll.jpg
+  image: /public/img/polystack.jpg
   color: '#949667'
   description: >
     Adafruit Industries is the main client of Chickadee Tech.
